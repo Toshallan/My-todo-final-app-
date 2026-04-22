@@ -2,7 +2,7 @@
 
 Une application de gestion de tâches complète développée en JavaScript Vanilla. Conçue comme projet académique au sein de la structure fictive Casa Tech pour l'année universitaire 2025/2026.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 * **Système d'authentification simulé** : Connexion par nom d'utilisateur, création automatique de l'espace personnel.
 * **CRUD complet** : Ajouter, afficher, marquer comme terminé et supprimer des tâches.
@@ -12,13 +12,13 @@ Une application de gestion de tâches complète développée en JavaScript Vanil
     * Animations fluides (ajout et suppression).
     * Mode sombre/clair persistant.
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * HTML5
 * CSS3 (Variables, Animations)
 * JavaScript (DOM, ES6, LocalStorage)
 
-## 📦 Déploiement via GitHub Pages
+##  Déploiement via GitHub Pages
 
 1. Créez un nouveau dépôt sur GitHub.
 2. Uploadez les fichiers (`index.html`, `style.css`, `script.js`, `README.md`).
@@ -28,7 +28,7 @@ Une application de gestion de tâches complète développée en JavaScript Vanil
 
 ---
 
-## 📱 Post LinkedIn
+##  Post LinkedIn
 
 *Prêt à copier-coller :*
 
