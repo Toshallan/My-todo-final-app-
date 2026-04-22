@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TodoApp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="darkModeToggle" class="theme-btn">🌙 Mode Sombre</button>
+
+    <div id="app">
+        <div id="loginPage" class="view">
+            <div class="card">
+                <h1>Todo</h1>
+                <p>Entrez votre nom pour accéder à vos tâches</p>
+                <form id="loginForm">
+                    <input type="text" id="usernameInput" placeholder="Votre nom d'utilisateur..." required>
+                    <button type="submit" class="btn-primary">Se connecter</button>
+                </form>
+            </div>
+        </div>
+
+        <div id="todoPage" class="view hidden">
+            <nav class="navbar">
+                <span id="userGreeting">Bonjour, ...</span>
+                <button id="logoutBtn" class="btn-outline">Déconnexion</button>
+            </nav>
+
+            <main class="container">
+                <section class="add-task">
+                    <form id="todoForm">
+                        <input type="text" id="taskInput" placeholder="Quelle est la prochaine étape ?" required>
+                        <button type="submit" class="btn-add">+</button>
+                    </form>
+                </section>
+
+                <section class="stats">
+                    <div class="stat-item">Total: <span id="totalCount">0</span></div>
+                    <div class="stat-item">Fait: <span id="doneCount">0</span></div>
+                </section>
+
+                <ul id="taskList">
+                    </ul>
+            </main>
+        </div>
+    </div>
+
+    <footer class="footer">
+        Année Universitaire 2025/2026 • Projet
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
