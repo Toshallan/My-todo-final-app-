@@ -1,6 +1,6 @@
 # TodoList App - Project
 
-Une application de gestion de tâches complète développée en JavaScript Vanilla. Conçue comme projet académique au sein de la structure fictive Casa Tech pour l'année universitaire 2025/2026.
+Une application de gestion de tâches complète développée en JavaScript Vanilla. Conçue comme projet académique pour l'année universitaire 2025/2026.
 
 ##  Fonctionnalités
 
