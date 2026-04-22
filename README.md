@@ -24,7 +24,7 @@ Une application de gestion de tâches complète développée en JavaScript Vanil
 2. Uploadez les fichiers (`index.html`, `style.css`, `script.js`, `README.md`).
 3. Allez dans **Settings > Pages**.
 4. Sous "Source", sélectionnez la branche `main` et sauvegardez.
-5. Votre site sera accessible sur : `https://[votre-username].github.io/[nom-du-repo]/`
+5. Votre site sera accessible sur : `https://toshallan.github.io/My-todo-final-app-/`
 
 ---
 
