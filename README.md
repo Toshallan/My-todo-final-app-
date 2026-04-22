@@ -27,20 +27,3 @@ Une application de gestion de tâches complète développée en JavaScript Vanil
 5. Votre site sera accessible sur : `https://toshallan.github.io/My-todo-final-app-/`
 
 ---
-
-##  Post LinkedIn
-
-*Prêt à copier-coller :*
-
-J’ai développé une TodoList complète en JavaScript Vanilla :
-• Système de login utilisateur
-• CRUD des tâches (ajout, suppression, statut)
-• Sauvegarde locale avec localStorage
-• Interface simple et responsive (avec Mode Sombre)
-• Déploiement avec GitHub Pages
-
-Un excellent projet pour solidifier les bases du développement web et de la manipulation du DOM !
-
-GitHub : [Lien vers votre repo]
-Démo : [Lien vers la démo GitHub Pages]
-Année universitaire : 2025/2026
